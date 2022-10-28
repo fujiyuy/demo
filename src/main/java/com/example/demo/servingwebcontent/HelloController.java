@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.servingwebcontent;
 import org.springframework.boot.autoconfigure.*;
 import org.springframework.web.bind.annotation.*;
 
